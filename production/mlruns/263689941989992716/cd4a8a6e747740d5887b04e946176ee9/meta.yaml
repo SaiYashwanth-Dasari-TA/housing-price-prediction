@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anil_tiger/housing-price-prediction/production/mlruns/263689941989992716/cd4a8a6e747740d5887b04e946176ee9/artifacts
+end_time: 1690814619826
+entry_point_name: ''
+experiment_id: '263689941989992716'
+lifecycle_stage: active
+run_id: cd4a8a6e747740d5887b04e946176ee9
+run_name: PARENT_RUN
+run_uuid: cd4a8a6e747740d5887b04e946176ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690814617982
+status: 3
+tags: []
+user_id: anil_tiger
